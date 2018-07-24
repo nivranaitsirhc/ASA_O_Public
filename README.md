@@ -38,10 +38,14 @@ Targeted for ASUS Z00LD(ZE550KL) (or can be installed on any device running Oreo
 
 ## How to build
 
-Zip all files inside the ufs Folder, and flash it to your ROM using your TWRP.
+Zip all files inside the ufs Folder, and flash it to your ROM using your TWRP.<br/>
+or run the BUilDZIP.cmd on windows.
 <br/>
 <br/>
 WARNING FLASH AT YOUR OWN RISK!!
+
+## External Sources
+Uses [TKruzze](https://forum.xda-developers.com/member.php?u=2777334) Windows Zip Builder [Source](https://forum.xda-developers.com/android/software-hacking/tool-zip-builder-v4-2-1-build-sign-t3739556).
 
 <br /> <br />
 **CodRLabworks** <br />
