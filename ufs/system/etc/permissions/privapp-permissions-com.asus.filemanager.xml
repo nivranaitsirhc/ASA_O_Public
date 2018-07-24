@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	CodRLabworks
+	CodRCA : Christian Arvin
+			
+	Project: ASUS Stock Apps
+
+			Generated Asus Permissions from AsusStockAps priv-app folder
+-->
+
+<permissions>
+	<privapp-permissions package="com.asus.filemanager">
+		<permission name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ"/>
+		<permission name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE"/>
+		<permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+		<permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		<permission name="android.permission.WAKE_LOCK"/>
+		<permission name="android.permission.ACCESS_NETWORK_STATE"/>
+		<permission name="com.android.email.permission.READ_ATTACHMENT"/>
+		<permission name="android.permission.EXPAND_STATUS_BAR"/>
+		<permission name="android.permission.INTERACT_ACROSS_USERS"/>
+		<permission name="android.permission.MANAGE_USERS"/>
+		<permission name="android.permission.INTERNET"/>
+		<permission name="android.permission.GET_ACCOUNTS"/>
+		<permission name="com.android.gallery3d.permission.READ_PICASA"/>
+		<permission name="android.permission.ACCESS_WIFI_STATE"/>
+		<permission name="android.permission.CHANGE_WIFI_STATE"/>
+		<permission name="android.permission.GET_TASKS"/>
+		<permission name="android.permission.MANAGE_ACCOUNTS"/>
+		<permission name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+		<permission name="android.permission.USE_CREDENTIALS"/>
+		<permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+		<permission name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+		<permission name="android.permission.USE_FINGERPRINT"/>
+		<permission name="android.permission.WRITE_SETTINGS"/>
+		<permission name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.READ"/>
+		<permission name="com.asus.filemanager.provider.OpenFileProvider.PERMISSION.WRITE"/>
+		<permission name="com.asus.permission.APPLY_THEME"/>
+		<permission name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+		<permission name="android.permission.READ_CONTACTS"/>
+		<permission name="android.permission.CAMERA"/>
+		<permission name="com.asus.vzwhelp.provider.permission"/>
+		<permission name="android.permission.LOCAL_MAC_ADDRESS"/>
+		<permission name="com.google.android.c2dm.permission.RECEIVE"/>
+		<permission name="com.asus.filemanager.permission.C2D_MESSAGE"/>
+	</privapp-permissions>
+</permissions>

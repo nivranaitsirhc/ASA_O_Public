@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	CodRLabworks
+	CodRCA : Christian Arvin
+			
+	Project: ASUS Stock Apps
+
+			Generated Asus Permissions from AsusStockAps priv-app folder
+-->
+<permissions>
+	<privapp-permissions package="com.google.android.apps.messaging">
+		<permission name="com.google.android.apps.messaging.services.ACCESS_JIBESERVICE"/>
+		<permission name="android.permission.WAKE_LOCK"/>
+		<permission name="android.permission.READ_SMS"/>
+		<permission name="android.permission.WRITE_SMS"/>
+		<permission name="android.permission.RECEIVE_SMS"/>
+		<permission name="android.permission.RECEIVE_MMS"/>
+		<permission name="android.permission.SEND_SMS"/>
+		<permission name="android.permission.RECEIVE_WAP_PUSH"/>
+		<permission name="android.permission.INTERNET"/>
+		<permission name="android.permission.ACCESS_NETWORK_STATE"/>
+		<permission name="android.permission.CHANGE_NETWORK_STATE"/>
+		<permission name="android.permission.READ_CONTACTS"/>
+		<permission name="android.permission.WRITE_CONTACTS"/>
+		<permission name="android.permission.READ_PROFILE"/>
+		<permission name="android.permission.VIBRATE"/>
+		<permission name="android.permission.READ_PHONE_STATE"/>
+		<permission name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+		<permission name="android.permission.CAMERA"/>
+		<permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		<permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+		<permission name="android.permission.RECORD_AUDIO"/>
+		<permission name="android.permission.CALL_PHONE"/>
+		<permission name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+		<permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+		<permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+		<permission name="android.permission.ACCESS_FINE_LOCATION"/>
+		<permission name="android.permission.GET_PACKAGE_SIZE"/>
+		<permission name="com.google.android.ims.providers.ACCESS_DATA"/>
+		<permission name="com.google.android.ims.LOG_ACCESS"/>
+		<permission name="com.google.android.setupwizard.READ_DEVICE_ORIGIN"/>
+		<permission name="com.google.android.setupwizard.READ_DEVICE_ORIGIN_FIRST_PARTY"/>
+		<permission name="com.cequint.ecid.CALLER_ID_EXTERNAL_LOOKUP_SMS"/>
+		<permission name="android.permission.FOREGROUND_SERVICE"/>
+		<permission name="com.sec.android.provider.badge.permission.READ"/>
+		<permission name="com.sec.android.provider.badge.permission.WRITE"/>
+		<permission name="com.htc.launcher.permission.READ_SETTINGS"/>
+		<permission name="com.htc.launcher.permission.UPDATE_SHORTCUT"/>
+		<permission name="com.sonyericsson.home.permission.BROADCAST_BADGE"/>
+		<permission name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"/>
+		<permission name="com.anddoes.launcher.permission.UPDATE_COUNT"/>
+		<permission name="com.majeur.launcher.permission.UPDATE_BADGE"/>
+		<permission name="com.huawei.android.launcher.permission.CHANGE_BADGE"/>
+		<permission name="com.huawei.android.launcher.permission.READ_SETTINGS"/>
+		<permission name="com.huawei.android.launcher.permission.WRITE_SETTINGS"/>
+		<permission name="android.permission.READ_APP_BADGE"/>
+		<permission name="com.oppo.launcher.permission.READ_SETTINGS"/>
+		<permission name="com.oppo.launcher.permission.WRITE_SETTINGS"/>
+		<permission name="com.google.android.c2dm.permission.RECEIVE"/>
+	</privapp-permissions>
+</permissions>
