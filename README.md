@@ -4,7 +4,10 @@
 **Description:**
 
 A collection of Asus Stock Apps designed to be installed as system app and priv-app.<br/>
-Targeted for ASUS Z00LD(ZE550KL). All apk came from [APK MIRROR](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=ASUS)<br/>
+Targeted for ASUS Z00LD(ZE550KL) (or can be installed on any device running Oreo). All apk came from [APK MIRROR](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=ASUS)<br/>
+<br/>
+**WARNING THIS HAS AN INCLUDED TWEAKPROP_B IT WILL MODIFY YOUR SYSMTEM BUILD.PROP**<br/>
+**USE WITH CAUTION, FLASH ONLY IF YOU KNOW WHAT YOU ARE DOING**<br/>
 <br/>
 
 | SYSTEM APP        | VERSION
