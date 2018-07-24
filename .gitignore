@@ -1,5 +1,5 @@
 *.zip
 *.txt
-*.cmd
+#*.cmd
 *.md5
-*.exe
+#*.exe

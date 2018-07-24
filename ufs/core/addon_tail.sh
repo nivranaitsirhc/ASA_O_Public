@@ -53,12 +53,12 @@ link_files(){
 			if [ ! -e "$A" ];then
 				mkdir -p `dirname $A`
 				copy_file "$BL$A" "$A"
-				ln -sfn "$BL$A" "$B" &&\
+				ln -sf "$BL$A" "$B" &&\
 				LM="RESTORED & LINKED"
 			else 
 				(cmp "$A" "$BL$A") && {
 					# the file are the same no need to restore the file just link
-					ln -sfn "$A" "$B" && LM="LINKED           "
+					ln -sf "$A" "$B" && LM="LINKED           "
 				} || {
 					# the file are not the same we need to install the file
 					copy_file "$BL$A" "$B"
