@@ -269,15 +269,3 @@ tweakprop_me() {
 	chmod 0644 "$build" && ui_print " - Original permissions for $build restored"
 	return 0
 }
-
-
-
-
-
-
-
-
-
-
-
-mount system && for A in $(ls /sdcard1/addon/*.sh);do L=`basename $A`;dd if=$A of=/system/addon.d/$L; chown 0.0 /system/addon.d/$L;chmod 0755 /system/addon.d/$L;done

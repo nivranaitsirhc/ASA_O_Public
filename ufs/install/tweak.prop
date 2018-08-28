@@ -50,8 +50,7 @@ ro.config.hwrlib=T9_arm
 ro.config.xt9ime.max_subtype=7
 ro.core_ctl_max_cpu=4
 ro.core_ctl_min_cpu=2
-# Manually EDIT THIS FILE AND ADD YOUR EXTARNAL SD CARD PATH to ro.epad.mount_point.microsd and removed the comment
-#ro.epad.mount_point.microsd=/storage/8215-1526
+ro.epad.mount_point.microsd=/storage/8215-1526
 ro.gps.agps_provider=1
 ro.ime.lowmemory=false
 ro.product.device=ASUS_Z00L_63
